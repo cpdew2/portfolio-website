@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #cf7878; /*color change CDew*/
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -113,7 +113,7 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* Type */
+/* @MEDIA SECTION */
 
 	html {
 		font-size: 18pt;
@@ -150,9 +150,9 @@ input, select, textarea {
 			}
 
 		}
-
+/*color change CDew*/
 	body {
-		background-color: #ffffff;
+		background-color: #f5c7c7; 
 		color: #000000;
 	}
 
